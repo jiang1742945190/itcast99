@@ -7,5 +7,6 @@ public class Main {
         System.out.println("sad");
         System.out.println("新的代码");
 	System.out.println("lisi提交的新的代码");
+	System.out.println("lisi分支提交的新的代码");
     }
 }
